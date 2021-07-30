@@ -1,245 +1,155 @@
-#EXTM3U 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1 HD
-http://tv.sau.edu.cn/cctv1hd.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2 HD
-http://tv.sau.edu.cn/hls74a3.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3 HD
-http://tv.sau.edu.cn/cctv3hd.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4 HD
-http://tv.sau.edu.cn/hls68a40.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5 HD1
-http://tv.sau.edu.cn/cctv5hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5 HD2
-http://tv.sau.edu.cn/hls73a5.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+ HD
-http://tv.sau.edu.cn/hls73a6.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6 HD
-http://tv.sau.edu.cn/cctv6hd.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7 HD
-http://tv.sau.edu.cn/hls73a8.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8 HD
-http://tv.sau.edu.cn/cctv8hd.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9 HD
-http://tv.sau.edu.cn/hls72a10.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10 HD
-http://tv.sau.edu.cn/hls72a11.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-12 HD
-http://tv.sau.edu.cn/hls72a12.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14 HD
-http://tv.sau.edu.cn/hls71a13.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17 HD
-http://tv.sau.edu.cn/cctv17hd.m3u8
-#EXTINF:-1 group-title="央视",CCTV-1
-http://tv.sau.edu.cn/cctv1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-2
-http://tv.sau.edu.cn/cctv2.m3u8
-#EXTINF:-1 group-title="央视",CCTV-3
-http://tv.sau.edu.cn/cctv3.m3u8
-#EXTINF:-1 group-title="央视",CCTV-4
-http://tv.sau.edu.cn/cctv4.m3u8
-#EXTINF:-1 group-title="央视",CCTV-5
-http://tv.sau.edu.cn/cctv5.m3u8
-#EXTINF:-1 group-title="央视",CCTV-6
-http://tv.sau.edu.cn/cctv6.m3u8
-#EXTINF:-1 group-title="央视",CCTV-7
-http://tv.sau.edu.cn/cctv7.m3u8
-#EXTINF:-1 group-title="央视",CCTV-8
-http://tv.sau.edu.cn/cctv8.m3u8
-#EXTINF:-1 group-title="央视",CCTV-9
-http://tv.sau.edu.cn/cctv9.m3u8
-#EXTINF:-1 group-title="央视",CCTV-10
-http://tv.sau.edu.cn/cctv10.m3u8
-#EXTINF:-1 group-title="央视",CCTV-11
-http://tv.sau.edu.cn/cctv11.m3u8
-#EXTINF:-1 group-title="央视",CCTV-12
-http://tv.sau.edu.cn/cctv12.m3u8
-#EXTINF:-1 group-title="央视",CCTV-13
-http://tv.sau.edu.cn/cctv13.m3u8
-#EXTINF:-1 group-title="央视",CCTV-14
-http://tv.sau.edu.cn/cctv14.m3u8
-#EXTINF:-1 group-title="央视",CCTV-15
-http://tv.sau.edu.cn/cctv15.m3u8
-#EXTINF:-1 group-title="央视",CCTV-女性时尚
-http://tv.sau.edu.cn/hls44.m3u8
-#EXTINF:-1 group-title="央视",CCTV-怀旧剧场
-http://tv.sau.edu.cn/hls94.m3u8
-#EXTINF:-1 group-title="央视",CCTV-老故事
-http://tv.sau.edu.cn/hls113.m3u8
-#EXTINF:-1 group-title="央视",CCTV-风云足球
-http://tv.sau.edu.cn/hls20.m3u8
-#EXTINF:-1 group-title="北京频道",北京卫视 HD
-http://tv.sau.edu.cn/btv1hd.m3u8
-#EXTINF:-1 group-title="北京频道",北京文艺 HD
-http://tv.sau.edu.cn/btv2hd.m3u8
-#EXTINF:-1 group-title="北京频道",北京纪实 HD
-http://tv.sau.edu.cn/btv11hd.m3u8
-#EXTINF:-1 group-title="北京频道",北京影视 HD
-http://tv.sau.edu.cn/btv4hd.m3u8
-#EXTINF:-1 group-title="北京频道",北京新闻 HD
-http://tv.sau.edu.cn/btv9hd.m3u8
-#EXTINF:-1 group-title="北京频道",北京卫视
-http://tv.sau.edu.cn/btv1.m3u8
-#EXTINF:-1 group-title="北京频道",北京文艺
-http://tv.sau.edu.cn/btv2.m3u8
-#EXTINF:-1 group-title="北京频道",北京科教
-http://tv.sau.edu.cn/btv3.m3u8
-#EXTINF:-1 group-title="北京频道",北京影视
-http://tv.sau.edu.cn/btv4.m3u8
-#EXTINF:-1 group-title="北京频道",北京财经
-http://tv.sau.edu.cn/btv5.m3u8
-#EXTINF:-1 group-title="北京频道",北京生活
-http://tv.sau.edu.cn/btv7.m3u8
-#EXTINF:-1 group-title="北京频道",北京青年
-http://tv.sau.edu.cn/btv8.m3u8
-#EXTINF:-1 group-title="北京频道",北京新闻
-http://tv.sau.edu.cn/btv9.m3u8
-#EXTINF:-1 group-title="北京频道",卡酷少儿
-http://tv.sau.edu.cn/btv10.m3u8
-#EXTINF:-1 group-title="各省卫视",广东卫视 HD
-http://tv.sau.edu.cn/gdhd.m3u8
-#EXTINF:-1 group-title="各省卫视",辽宁卫视 HD
-http://tv.sau.edu.cn/lnhd.m3u8
-#EXTINF:-1 group-title="各省卫视",安徽卫视 HD
-http://tv.sau.edu.cn/ahhd.m3u8
-#EXTINF:-1 group-title="各省卫视",龙江卫视 HD
-http://tv.sau.edu.cn/hljhd.m3u8
-#EXTINF:-1 group-title="各省卫视",湖南卫视 HD
-http://tv.sau.edu.cn/hunanhd.m3u8
-#EXTINF:-1 group-title="各省卫视",湖北卫视 HD
-http://tv.sau.edu.cn/hbhd.m3u8
-#EXTINF:-1 group-title="各省卫视",深圳卫视 HD
-http://tv.sau.edu.cn/szhd.m3u8
-#EXTINF:-1 group-title="各省卫视",山东卫视 HD
-http://tv.sau.edu.cn/sdhd.m3u8
-#EXTINF:-1 group-title="各省卫视",天津卫视 HD
-http://tv.sau.edu.cn/tjhd.m3u8
-#EXTINF:-1 group-title="各省卫视",东方卫视 HD
-http://tv.sau.edu.cn/hls122.m3u8
-#EXTINF:-1 group-title="各省卫视",重庆卫视 HD
-http://tv.sau.edu.cn/cqhd.m3u8
-#EXTINF:-1 group-title="各省卫视",浙江卫视 HD
-http://tv.sau.edu.cn/zjhd.m3u8
-#EXTINF:-1 group-title="各省卫视",江苏卫视 HD
-http://tv.sau.edu.cn/jshd.m3u8
-#EXTINF:-1 group-title="各省卫视",四川卫视 HD
-http://tv.sau.edu.cn/hls67a42.m3u8
-#EXTINF:-1 group-title="各省卫视",江西卫视 HD
-http://tv.sau.edu.cn/jxhd.m3u8
-#EXTINF:-1 group-title="各省卫视",东南卫视 HD
-http://tv.sau.edu.cn/dnhd.m3u8
-#EXTINF:-1 group-title="各省卫视",河北卫视 HD
-http://tv.sau.edu.cn/hebhd.m3u8
-#EXTINF:-1 group-title="各省卫视",河南卫视 HD
-http://tv.sau.edu.cn/hnhd.m3u8
-#EXTINF:-1 group-title="各省卫视",贵州卫视 HD
-http://tv.sau.edu.cn/gzhd.m3u8
-#EXTINF:-1 group-title="各省卫视",河南卫视
-http://tv.sau.edu.cn/hntv.m3u8
-#EXTINF:-1 group-title="各省卫视",陕西卫视
-http://tv.sau.edu.cn/sxtv.m3u8
-#EXTINF:-1 group-title="各省卫视",吉林卫视
-http://tv.sau.edu.cn/jltv.m3u8
-#EXTINF:-1 group-title="各省卫视",广东卫视
-http://tv.sau.edu.cn/gdtv.m3u8
-#EXTINF:-1 group-title="各省卫视",山东卫视
-http://tv.sau.edu.cn/sdtv.m3u8
-#EXTINF:-1 group-title="各省卫视",湖北卫视
-http://tv.sau.edu.cn/hbtv.m3u8
-#EXTINF:-1 group-title="各省卫视",广西卫视
-http://tv.sau.edu.cn/gxtv.m3u8
-#EXTINF:-1 group-title="各省卫视",河北卫视
-http://tv.sau.edu.cn/hebtv.m3u8
-#EXTINF:-1 group-title="各省卫视",西藏卫视
-http://tv.sau.edu.cn/xztv.m3u8
-#EXTINF:-1 group-title="各省卫视",内蒙古卫视
-http://tv.sau.edu.cn/nmtv.m3u8
-#EXTINF:-1 group-title="各省卫视",青海卫视
-http://tv.sau.edu.cn/qhtv.m3u8
-#EXTINF:-1 group-title="各省卫视",四川卫视
-http://tv.sau.edu.cn/sctv.m3u8
-#EXTINF:-1 group-title="各省卫视",江苏卫视
-http://tv.sau.edu.cn/jstv.m3u8
-#EXTINF:-1 group-title="各省卫视",天津卫视
-http://tv.sau.edu.cn/tjtv.m3u8
-#EXTINF:-1 group-title="各省卫视",山西卫视
-http://tv.sau.edu.cn/sxrtv.m3u8
-#EXTINF:-1 group-title="各省卫视",辽宁卫视
-http://tv.sau.edu.cn/lntv.m3u8
-#EXTINF:-1 group-title="各省卫视",厦门卫视
-http://tv.sau.edu.cn/xmtv.m3u8
-#EXTINF:-1 group-title="各省卫视",新疆卫视
-http://tv.sau.edu.cn/xjtv.m3u8
-#EXTINF:-1 group-title="各省卫视",东方卫视
-http://tv.sau.edu.cn/dftv.m3u8
-#EXTINF:-1 group-title="各省卫视",黑龙江卫视
-http://tv.sau.edu.cn/hljtv.m3u8
-#EXTINF:-1 group-title="各省卫视",湖南卫视
-http://tv.sau.edu.cn/hunantv.m3u8
-#EXTINF:-1 group-title="各省卫视",云南卫视
-http://tv.sau.edu.cn/yntv.m3u8
-#EXTINF:-1 group-title="各省卫视",江西卫视
-http://tv.sau.edu.cn/jxtv.m3u8
-#EXTINF:-1 group-title="各省卫视",东南卫视
-http://tv.sau.edu.cn/dntv.m3u8
-#EXTINF:-1 group-title="各省卫视",浙江卫视
-http://tv.sau.edu.cn/zjtv.m3u8
-#EXTINF:-1 group-title="各省卫视",贵州卫视
-http://tv.sau.edu.cn/gztv.m3u8
-#EXTINF:-1 group-title="各省卫视",宁夏卫视
-http://tv.sau.edu.cn/nxtv.m3u8
-#EXTINF:-1 group-title="各省卫视",甘肃卫视
-http://tv.sau.edu.cn/gstv.m3u8
-#EXTINF:-1 group-title="各省卫视",重庆卫视
-http://tv.sau.edu.cn/cqtv.m3u8
-#EXTINF:-1 group-title="各省卫视",兵团卫视
-http://tv.sau.edu.cn/bttv.m3u8
-#EXTINF:-1 group-title="各省卫视",海南卫视
-http://tv.sau.edu.cn/lytv.m3u8
-#EXTINF:-1 group-title="各省卫视",深圳卫视
-http://tv.sau.edu.cn/sztv.m3u8
-#EXTINF:-1 group-title="各省卫视",安徽卫视
-http://tv.sau.edu.cn/ahtv.m3u8
-#EXTINF:-1 group-title="其他节目",CHC高清电影
-http://tv.sau.edu.cn/chchd.m3u8
-#EXTINF:-1 group-title="其他节目",金鹰纪实HD
-http://tv.sau.edu.cn/hls163.m3u8
-#EXTINF:-1 group-title="其他节目",家庭影院HD
-http://tv.sau.edu.cn/hls166.m3u8
-#EXTINF:-1 group-title="其他节目",大众影视HD
-http://tv.sau.edu.cn/hls164.m3u8
-#EXTINF:-1 group-title="其他节目",卡通剧场HD
-http://tv.sau.edu.cn/hls167.m3u8
-#EXTINF:-1 group-title="其他节目",家庭剧场HD
-http://tv.sau.edu.cn/hls165.m3u8
-#EXTINF:-1 group-title="其他节目",纪实HD
-http://tv.sau.edu.cn/hls132.m3u8
-#EXTINF:-1 group-title="其他节目",CETV HD
-http://tv.sau.edu.cn/hls67a45.m3u8
-#EXTINF:-1 group-title="其他节目",凤凰电影
-http://tv.sau.edu.cn/fhdy.m3u8
-#EXTINF:-1 group-title="其他节目",凤凰卫视
-http://tv.sau.edu.cn/fhzw.m3u8
-#EXTINF:-1 group-title="其他节目",凤凰中文
-http://tv.sau.edu.cn/fhzx.m3u8
-#EXTINF:-1 group-title="其他节目",CHC家庭影院
-http://tv.sau.edu.cn/chctv.m3u8
-#EXTINF:-1 group-title="其他节目",CHC动作电影
-http://tv.sau.edu.cn/chcatv.m3u8
-#EXTINF:-1 group-title="其他节目",辽宁都市
-http://tv.sau.edu.cn/hls88.m3u8
-#EXTINF:-1 group-title="其他节目",CETV3
-http://tv.sau.edu.cn/cetv3.m3u8
-#EXTINF:-1 group-title="其他节目",CETV4
-http://tv.sau.edu.cn/cetv4.m3u8
-#EXTINF:-1 group-title="其他节目",ChannelV
-http://tv.sau.edu.cn/channelv.m3u8
-#EXTINF:-1 group-title="其他节目",Discovery
-http://tv.sau.edu.cn/discovery.m3u8
-#EXTINF:-1 group-title="其他节目",星空卫视
-http://tv.sau.edu.cn/startv.m3u8
-#EXTINF:-1 group-title="其他节目",山东教育卫视
-http://tv.sau.edu.cn/sdetv.m3u8
-#EXTINF:-1 group-title="其他节目",星空体育
-http://tv.sau.edu.cn/starsports.m3u8
-#EXTINF:-1 group-title="其他节目",国家地理频道
-http://tv.sau.edu.cn/natlgeo.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="默认" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-chno="1" ,CCTV-1 综合
+http://39.135.140.104:6610/PLTV/88888888/224/3221225642/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="默认" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-chno="2" ,CCTV-2 财经
+http://39.135.140.104:6610/PLTV/88888888/224/3221225500/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="默认" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-chno="3" ,CCTV-3 综艺
+http://39.135.140.104:6610/PLTV/88888888/224/3221225634/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="默认" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-chno="4" ,CCTV-4 中文国际
+http://39.135.140.104:6610/PLTV/88888888/224/3221225621/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="默认" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-chno="5" ,CCTV-5 体育
+http://39.135.140.104:6610/PLTV/88888888/224/3221225633/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="默认" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV-5+ 体育赛事
+http://39.135.140.104:6610/PLTV/88888888/224/3221225706/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="默认" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-chno="6" ,CCTV-6 电影
+http://39.135.140.104:6610/PLTV/88888888/224/3221225632/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="默认" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-chno="7" ,CCTV-7 国防军事
+http://39.135.140.104:6610/PLTV/88888888/224/3221225644/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-8 电视剧 高清
+http://39.135.140.104:6610/PLTV/88888888/224/3221225631/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-9 纪录 高清
+http://39.135.140.104:6610/PLTV/88888888/224/3221225646/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-10 科教 高清
+http://39.135.140.104:6610/PLTV/88888888/224/3221225636/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-12 社会与法 高清
+http://39.135.140.104:6610/PLTV/88888888/224/3221225637/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-13 新闻 高清
+http://39.135.140.104:6610/PLTV/88888888/224/3221225638/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-14 少儿 高清
+http://39.135.140.104:6610/PLTV/88888888/224/3221225640/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-15 音乐 高清
+http://39.135.140.104:6610/PLTV/88888888/224/3221225641/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-17 农业农村 高清
+http://39.135.140.104:6610/PLTV/88888888/224/3221225909/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV 中视购物
+http://39.135.140.104:6610/PLTV/88888888/224/3221225976/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CETV-1 高清
+http://39.135.140.104:6610/PLTV/88888888/224/3221225917/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CETV-4
+http://39.135.140.104:6610/PLTV/88888888/224/3221225937/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CGTN
+http://39.135.140.104:6610/PLTV/88888888/224/3221225747/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CGTN 纪录
+http://39.135.140.104:6610/PLTV/88888888/224/3221225645/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,湖南卫视 高清
+http://39.135.140.104:6610/PLTV/88888888/224/3221225704/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,浙江卫视 高清
+http://39.135.140.104:6610/PLTV/88888888/224/3221225703/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,江苏卫视 高清
+http://39.135.140.104:6610/PLTV/88888888/224/3221225488/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,北京卫视 高清
+http://39.135.140.104:6610/PLTV/88888888/224/3221225674/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,东方卫视 高清
+http://39.135.140.104:6610/PLTV/88888888/224/3221225659/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,安徽卫视 高清
+http://39.135.140.104:6610/PLTV/88888888/224/3221225691/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,广东卫视 高清
+http://39.135.140.104:6610/PLTV/88888888/224/3221225701/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,深圳卫视 高清
+http://39.135.140.104:6610/PLTV/88888888/224/3221225700/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,辽宁卫视 高清
+http://39.135.140.104:6610/PLTV/88888888/224/3221225696/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,海南卫视 高清
+http://39.135.140.104:6610/PLTV/88888888/224/3221226212/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,山东卫视 高清
+http://39.135.140.104:6610/PLTV/88888888/224/3221225697/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,天津卫视 高清
+http://39.135.140.104:6610/PLTV/88888888/224/3221225698/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,重庆卫视 高清
+http://39.135.140.104:6610/PLTV/88888888/224/3221225692/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,东南卫视 高清
+http://39.135.140.104:6610/PLTV/88888888/224/3221225585/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,广西卫视 高清
+http://39.135.140.104:6610/PLTV/88888888/224/3221226211/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,贵州卫视 高清
+http://39.135.140.104:6610/PLTV/88888888/224/3221225483/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,河北卫视 高清
+http://39.135.140.104:6610/PLTV/88888888/224/3221225610/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,黑龙江卫视 高清
+http://39.135.140.104:6610/PLTV/88888888/224/3221225690/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,河南卫视 高清
+http://39.135.140.104:6610/PLTV/88888888/224/3221225611/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,湖北卫视 高清
+http://39.135.140.104:6610/PLTV/88888888/224/3221225699/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,江西卫视 高清
+http://39.135.140.104:6610/PLTV/88888888/224/3221225492/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,四川卫视 高清
+http://39.135.140.104:6610/PLTV/88888888/224/3221225487/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,内蒙古卫视 高清
+http://39.135.140.104:6610/PLTV/88888888/224/3221225667/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,宁夏卫视 高清
+http://39.135.140.104:6610/PLTV/88888888/224/3221225726/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,山西卫视
+http://39.135.140.104:6610/PLTV/88888888/224/3221225730/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,陕西卫视
+http://39.135.140.104:6610/PLTV/88888888/224/3221225729/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,新疆卫视
+http://39.135.140.104:6610/PLTV/88888888/224/3221225534/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,青海卫视
+http://39.135.140.104:6610/PLTV/88888888/224/3221225727/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,延边卫视
+http://39.135.140.104:6610/PLTV/88888888/224/3221226201/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,康巴卫视
+http://39.135.140.104:6610/PLTV/88888888/224/3221226207/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,西藏卫视
+http://39.135.140.104:6610/PLTV/88888888/224/3221225723/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,山东教育卫视
+http://39.135.140.104:6610/PLTV/88888888/224/3221225719/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,广东南方卫视上星
+http://39.135.140.104:6610/PLTV/88888888/224/3221226203/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,新疆兵团卫视
+http://39.135.140.104:6610/PLTV/88888888/224/3221226200/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,陕西农林卫视
+http://39.135.140.104:6610/PLTV/88888888/224/3221226204/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,青海安多卫视
+http://39.135.140.104:6610/PLTV/88888888/224/3221226195/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,河南梨园
+http://39.135.140.104:6610/PLTV/88888888/224/3221225581/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,河南武术世界
+http://39.135.140.104:6610/PLTV/88888888/224/3221225508/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,上海哈哈炫动
+http://39.135.140.104:6610/PLTV/88888888/224/3221225720/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,北京卡酷少儿
+http://39.135.140.104:6610/PLTV/88888888/224/3221225677/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,广东嘉佳卡通
+http://39.135.140.104:6610/PLTV/88888888/224/3221226193/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,湖南金鹰卡通
+http://39.135.140.104:6610/PLTV/88888888/224/3221225721/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,湖南金鹰纪实
+http://39.135.140.104:6610/PLTV/88888888/224/3221226198/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,江苏优漫卡通
+http://39.135.140.104:6610/PLTV/88888888/224/3221225665/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,江苏靓装
+http://39.135.140.104:6610/PLTV/88888888/224/3221225509/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,重庆汽摩
+http://39.135.140.104:6610/PLTV/88888888/224/3221225506/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,青岛中华美食
+http://39.135.140.104:6610/PLTV/88888888/224/3221225924/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,江西公共农业
+http://39.135.140.104:6610/PLTV/88888888/224/3221225578/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,江西少儿
+http://39.135.140.104:6610/PLTV/88888888/224/3221225577/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,江西影视旅游
+http://39.135.140.104:6610/PLTV/88888888/224/3221225579/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,江西新闻
+http://39.135.140.104:6610/PLTV/88888888/224/3221225576/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,江西经济生活
+http://39.135.140.104:6610/PLTV/88888888/224/3221225580/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,江西都市
+http://39.135.140.104:6610/PLTV/88888888/224/3221225584/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,北京家有购物
+http://39.135.140.104:6610/PLTV/88888888/224/3221225971/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,聚鲨环球精选
+http://39.135.140.104:6610/PLTV/88888888/224/3221225972/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1,纯享4K
+http://39.135.140.104:6610/PLTV/88888888/224/3221225786/2/index.m3u8?fmt=ts2hls
